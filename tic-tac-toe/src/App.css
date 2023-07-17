@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #d8d5d5;
+  font-family: "Fredoka", sans-serif;
+}
